@@ -94,5 +94,5 @@ Running the Server
 To run the server:
 
 Navigate to the directory containing the Go code.
-Run `go run .`` to start the server.
+Run `go run .` to start the server.
 The server will listen on http://localhost:8080.
